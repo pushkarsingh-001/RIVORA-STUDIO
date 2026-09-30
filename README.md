@@ -1,4 +1,4 @@
-# Orbit
+# RIVORA STUDIO
 
 A collaborative team workspace built with Next.js, Socket.IO, MongoDB, and Redis.
 
